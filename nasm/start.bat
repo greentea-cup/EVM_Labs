@@ -1,0 +1,1 @@
+"C:\Users\Public\Desktop\DOSBox 0.74-3.lnk" "C:\Users\Igor\Desktop\evm\NASM207\4.bat"
